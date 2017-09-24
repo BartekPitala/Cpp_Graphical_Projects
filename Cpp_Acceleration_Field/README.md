@@ -1,4 +1,4 @@
-![alt text](https://github.com/BartekPitala/Cpp_Graphical_Projects/Cpp_Acceleration_Field/blob/master/BIN/tlo.png)
+[https://github.com/BartekPitala/Cpp_Graphical_Projects/blob/master/Cpp_Acceleration_Field/BIN/tlo.png]
 # Acceleration Field
 A final project written in the course of Computer Graphics course ran on AGH University of Science and Technology in Krakow. 
 
