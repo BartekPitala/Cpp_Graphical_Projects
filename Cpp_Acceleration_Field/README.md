@@ -1,4 +1,4 @@
-![alt text](https://github.com/BartekPitala/Cpp_Graphical_Projects/edit/master/Cpp_Acceleration_Field/DOC/Screen.png)
+![alt text](https://github.com/BartekPitala/Cpp_Graphical_Projects/edit/master/Cpp_Acceleration_Field/BIN/tlo.png)
 # Acceleration Field
 A final project written in the course of Computer Graphics course ran on AGH University of Science and Technology in Krakow. 
 
@@ -14,3 +14,5 @@ More detailed documentation in DOC folder (Polish language only).
 
 # Usage:
 Simply clone the repo and go to BIN folder. Run "Pole przyspieszen czastki GFK.exe". No need to build from source.
+
+![alt text](https://github.com/BartekPitala/Cpp_Graphical_Projects/edit/master/Cpp_Acceleration_Field/DOC/Screen.png)
