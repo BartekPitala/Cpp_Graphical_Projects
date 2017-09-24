@@ -1,15 +1,16 @@
-![alt text](https://github.com/piotrmarszalek/Computer-Graphics-project/blob/master/BIN/tlo.png)
-# Computer-Graphics-project
-Project for AGH University of Science and Technology in Kraków, Poland
+![alt text](https://github.com/BartekPitala/Cpp_Graphical_Projects/edit/master/Cpp_Acceleration_Field/DOC/Screen.png)
+# Acceleration Field
+A final project written in the course of Computer Graphics course ran on AGH University of Science and Technology in Krakow. 
 
-# Technologies & Libraries
+# Technologies & Libraries:
 Written in C++ language.
-Created using wxWidgets, because this was obbligatory.
-WxWidgets is old library and causes some lags.
+Created using wxWidgets, an old and laggy library, but it was imposed by the project supervisor.
+The in-app language is Polish, also imposed by the supervisor.
 
-# Brief Description
-Program is responsible for visualization of weather conditions, which can change.
+# Description:
+The app can be used to visualize the field of acceleration on a 2D map drawn from a mathematical function (currently there are two predefined surfaces). The field is shown as vectors(arrows) with varying length, depending on the "steepness" of the surface in a given point.
+The app incorporates an "About" page, where all the functionalities are explained.
 More detailed documentation in DOC folder (Polish language only).
 
 # How to start a program
-Simply clone the repo and go to BIN folder. Run "Pole przyspieszen czastki GFK.exe".
+Simply clone the repo and go to BIN folder. Run "Pole przyspieszen czastki GFK.exe". No need to build from source.
