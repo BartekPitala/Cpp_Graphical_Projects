@@ -12,5 +12,5 @@ The app can be used to visualize the field of acceleration on a 2D map drawn fro
 The app incorporates an "About" page, where all the functionalities are explained.
 More detailed documentation in DOC folder (Polish language only).
 
-# How to start a program
+# Usage:
 Simply clone the repo and go to BIN folder. Run "Pole przyspieszen czastki GFK.exe". No need to build from source.
