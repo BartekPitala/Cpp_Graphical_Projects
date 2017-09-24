@@ -1,0 +1,10 @@
+//---------------------------------------------------------------------------
+//
+// Name:        Pole przyspieszen czastki GFKApp.rc
+// Author:      Pitala&Marszalek&Matuszewski
+// Created:     29.05.2017 14:04:34
+// Description: 
+//
+//---------------------------------------------------------------------------
+
+#include <wx/msw/wx.rc>

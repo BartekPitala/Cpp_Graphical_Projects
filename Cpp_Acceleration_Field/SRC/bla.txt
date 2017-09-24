@@ -1,0 +1,16 @@
+Welcome to our program! Its purpose is to draw a colored contour map of surface given as a mathematical equation.
+The height of each point is counted as a function of its X and Y coordinates and time - to diversify the output.
+In addition, the program can show the field of gravitational acceleration with vectors overlaying the initial map.
+To visualize the acceleration, a ball can be put in the highest point of the map and its trail can be observed.
+
+HOW TO USE:
+
+Click "SurfaceChoice" to select one of the available surface equations. NOTE: Drawing the map may take a few seconds, so be patient!
+Click "VECTORS ON/OFF" to overlay the map with vectors (arrows) pointing the directions of highest value of gravitational acceleration.
+Slide the "Timeline" slider to change the value of "time" variable, thus modifying the map and contours. NOTE: Drawing the map after slide may take a few seconds.
+Slide the "Number of contours" slider to alternate the number of contours drawn on the map.
+Click "Save to BMP" to save the currently drawn map to a .bmp file. NOTE: The map will be saved without colors (Only contours and vectors, if enabled).
+Click "Generate frames" to save 255 frames with value of time changed by 1 unit between two consecutive frames. You have to specify the directory to save.
+Click "BALL ON/OFF" to release a ball in the highest point of the map. The ball starts to fall in the direction of the highest acceleration, and its trail can be observed.
+
+Now that You know everything, go back and have fun!
